@@ -220,5 +220,11 @@
         "key": "IrA243UKVu",
         "expirydate": "06-02-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "29494b57a667c31e",
+        "key": "wVYiCevHsJ",
+        "expirydate": "09-12-2025",
+        "Allowoffline": false
     }
 ]
