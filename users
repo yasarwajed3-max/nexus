@@ -328,5 +328,11 @@
         "key": "KbXo4385HI",
         "expirydate": "24-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "da2f09e30f9c49fd",
+        "key": "UKMYsiD0E9",
+        "expirydate": "24-12-2026",
+        "Allowoffline": false
     }
 ]
