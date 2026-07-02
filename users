@@ -16,5 +16,11 @@
         "key": "1mgsxpRtF4",
         "expirydate": "02-07-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "083d02f7d16209ed",
+        "key": "Nl3TDx8M9J",
+        "expirydate": "02-07-2027",
+        "Allowoffline": false
     }
 ]
