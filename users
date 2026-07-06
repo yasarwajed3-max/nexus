@@ -130,5 +130,11 @@
         "key": "PGxtKMvmb8",
         "expirydate": "06-07-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "94196065ccc69868",
+        "key": "XmseIpiZbL",
+        "expirydate": "06-07-2027",
+        "Allowoffline": false
     }
 ]
