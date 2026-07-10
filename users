@@ -160,5 +160,11 @@
         "key": "O35QMYUeL6",
         "expirydate": "10-07-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "aaf5d13ca07044d2",
+        "key": "XnMf1kPoT4",
+        "expirydate": "10-07-2027",
+        "Allowoffline": false
     }
 ]
