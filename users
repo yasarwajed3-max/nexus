@@ -208,5 +208,11 @@
         "key": "GsptPwSx3d",
         "expirydate": "13-07-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b738e515a8156c9c",
+        "key": "koeEuAMC05",
+        "expirydate": "14-07-2027",
+        "Allowoffline": false
     }
 ]
