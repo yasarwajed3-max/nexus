@@ -256,5 +256,11 @@
         "key": "RldhxIZFf2",
         "expirydate": "16-07-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "95f1765ca80cefe0",
+        "key": "DJXmi30QCl",
+        "expirydate": "16-07-2027",
+        "Allowoffline": false
     }
 ]
