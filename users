@@ -262,5 +262,11 @@
         "key": "DJXmi30QCl",
         "expirydate": "16-07-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "677537744c2593f6",
+        "key": "v3BWloR80j",
+        "expirydate": "16-07-2027",
+        "Allowoffline": false
     }
 ]
