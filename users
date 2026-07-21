@@ -322,5 +322,11 @@
         "key": "O92iskRrom",
         "expirydate": "20-07-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "483c0713ed512f0c",
+        "key": "XxHigI7R9G",
+        "expirydate": "21-08-2026",
+        "Allowoffline": false
     }
 ]
