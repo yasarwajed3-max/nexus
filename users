@@ -364,5 +364,11 @@
         "key": "MPpoBL4G",
         "expirydate": "30-07-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f46d4a3f9bc29748",
+        "key": "fS8WCboH",
+        "expirydate": "31-07-2027",
+        "Allowoffline": true
     }
 ]
