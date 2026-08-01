@@ -418,5 +418,11 @@
         "key": "AUtw2mTS",
         "expirydate": "01-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "4fd7100ad89f9681",
+        "key": "elhIHijX",
+        "expirydate": "01-08-2027",
+        "Allowoffline": true
     }
 ]
