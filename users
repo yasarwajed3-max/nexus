@@ -442,5 +442,11 @@
         "key": "N015b3Se",
         "expirydate": "04-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "19ddd0ec1ec4ee5f",
+        "key": "DktiW2ub",
+        "expirydate": "04-08-2027",
+        "Allowoffline": true
     }
 ]
