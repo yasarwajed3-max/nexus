@@ -448,5 +448,11 @@
         "key": "DktiW2ub",
         "expirydate": "04-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "8286daea1ea6054a",
+        "key": "qlDcSeyo",
+        "expirydate": "04-08-2027",
+        "Allowoffline": true
     }
 ]
