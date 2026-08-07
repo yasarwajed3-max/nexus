@@ -472,5 +472,11 @@
         "key": "GMUaSV8P",
         "expirydate": "07-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "c6a0548b1e03f90a",
+        "key": "NOnDP6JL",
+        "expirydate": "07-08-2027",
+        "Allowoffline": true
     }
 ]
