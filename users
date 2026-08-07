@@ -466,5 +466,11 @@
         "key": "TmiQ09hx",
         "expirydate": "07-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "0d6020b71a5a154c",
+        "key": "GMUaSV8P",
+        "expirydate": "07-08-2027",
+        "Allowoffline": true
     }
 ]
