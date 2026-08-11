@@ -496,5 +496,11 @@
         "key": "MUTRvAmS",
         "expirydate": "11-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ecdcebbe51fcf15f",
+        "key": "OWHgBYR6",
+        "expirydate": "11-08-2027",
+        "Allowoffline": true
     }
 ]
