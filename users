@@ -508,5 +508,11 @@
         "key": "FeW7N0GK",
         "expirydate": "11-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "03b43cf70fac466e",
+        "key": "shpDUOIN",
+        "expirydate": "11-08-2027",
+        "Allowoffline": true
     }
 ]
