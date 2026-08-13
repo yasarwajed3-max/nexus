@@ -514,5 +514,11 @@
         "key": "shpDUOIN",
         "expirydate": "11-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "8c504b88469e369c",
+        "key": "2DG1tPbo",
+        "expirydate": "13-08-2027",
+        "Allowoffline": true
     }
 ]
