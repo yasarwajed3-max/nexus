@@ -544,5 +544,11 @@
         "key": "Dv7EPQSZ",
         "expirydate": "20-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "d83528385cbf3de5",
+        "key": "41TgZ72y",
+        "expirydate": "20-08-2027",
+        "Allowoffline": true
     }
 ]
