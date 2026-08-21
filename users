@@ -562,5 +562,11 @@
         "key": "GFSOsb2N",
         "expirydate": "21-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f703d6bfc262ab80",
+        "key": "ZusHP82a",
+        "expirydate": "21-08-2027",
+        "Allowoffline": true
     }
 ]
