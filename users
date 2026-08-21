@@ -592,5 +592,11 @@
         "key": "dn2jZSig",
         "expirydate": "21-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "341dc6d803276b39",
+        "key": "h2nWUINg",
+        "expirydate": "21-08-2027",
+        "Allowoffline": true
     }
 ]
