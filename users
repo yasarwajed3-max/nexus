@@ -568,5 +568,11 @@
         "key": "ZusHP82a",
         "expirydate": "21-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b353663c5d89d07b",
+        "key": "lwfi4Zvd",
+        "expirydate": "21-08-2027",
+        "Allowoffline": true
     }
 ]
