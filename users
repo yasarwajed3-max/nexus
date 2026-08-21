@@ -598,5 +598,11 @@
         "key": "h2nWUINg",
         "expirydate": "21-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "31b3a7043e11fdc8",
+        "key": "OX2SZMK9",
+        "expirydate": "21-08-2027",
+        "Allowoffline": true
     }
 ]
