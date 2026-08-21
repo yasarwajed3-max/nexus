@@ -586,5 +586,11 @@
         "key": "SkG5MXx0",
         "expirydate": "21-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "139dcf2ab6a3cd49",
+        "key": "dn2jZSig",
+        "expirydate": "21-08-2027",
+        "Allowoffline": true
     }
 ]
