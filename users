@@ -604,5 +604,11 @@
         "key": "OX2SZMK9",
         "expirydate": "21-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "fe56fb2ed2cf6882",
+        "key": "AStW4Bdh",
+        "expirydate": "21-08-2027",
+        "Allowoffline": true
     }
 ]
