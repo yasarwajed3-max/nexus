@@ -682,5 +682,11 @@
         "key": "rv5ABTxd",
         "expirydate": "27-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "08018356bda9201a",
+        "key": "oN5CdMK0",
+        "expirydate": "28-08-2027",
+        "Allowoffline": true
     }
 ]
